@@ -1,0 +1,14 @@
+body {
+    background-color: #FED7DA;
+}
+
+.signup {
+    text-align: center;
+    align-content: center;
+    padding: 0px 450px;
+}
+
+.form {
+    border: 3px solid #ffecec;
+    margin-top: 80px;
+}

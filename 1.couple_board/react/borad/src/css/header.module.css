@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 1000px;
+}
+
+.headerWrapper {
+
+}
+
+.topNav {
+    width: 100%;
+    background-color: #FED7DA;
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+    width: 700px;
+    min-width: 100px;
+    line-height: 45px;
+}
+
+.menu {
+    text-decoration: none;
+    color: black;
+}
+
+.menu:hover {
+    color: deeppink;
+}
+
+.logout {
+    cursor: pointer;
+}
+
+.logout:hover {
+    color: deeppink;
+}
